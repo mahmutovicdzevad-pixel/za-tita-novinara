@@ -1,0 +1,6 @@
+novinar_specific (0/1/2)
+priority_investigation (0/1)
+protective_measures (0/1)
+online_doxing (0/1)
+hate_incitement_media (0/1)
+sanctions_strength (blage/umjerene/teške)

@@ -1,6 +1,1 @@
-novinar_specific (0/1/2)
-priority_investigation (0/1)
-protective_measures (0/1)
-online_doxing (0/1)
-hate_incitement_media (0/1)
-sanctions_strength (blage/umjerene/teške)
+novinar, novinari, novinarstvo; prijetnja, prijetnje, prijeteće ponašanje; otkrivanje identiteta; govor mržnje, huškački govor; štampa, mediji, medijske slobode; nasilje nad novinarima, fizički i verbalni napadi, online napadi (doxing), rodno zasnovani napadi
